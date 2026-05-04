@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Israel Gezahegn
 
-<!--
-**isru-dev/isru-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** and an **aspiring web developer** with a passion for building clean, "stunning," and highly functional web applications.
 
-Here are some ideas to get you started:
+*   **Frontend**: Building modern, responsive interfaces using **React**, **JavaScript**, and **HTML5/CSS3**.
+*   **Backend**: Developing robust server-side logic with **Node.js** and **Express**.
+*   **Database**: Managing and structuring data using **MySQL**.
+*   **Templating**: Creating dynamic web pages with **EJS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently deepening my expertise in the **Node.js ecosystem**.
+
+### 📫 Get In Touch* 
+**LinkedIn**: [Your Profile Link]
